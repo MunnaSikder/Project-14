@@ -1,0 +1,258 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;700&display=swap');
+body{
+	margin: 0;
+	padding: 0;
+	font-family: 'Raleway', sans-serif;
+}
+.header-section{
+	background-image: url(../images/bg1.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	min-height: 675px;
+	position: relative;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #fafcfe;
+    font-size: 18px;
+}
+.content{
+    display: block;
+    margin: 0 auto;
+    padding: 120px 0;
+}
+.content p{
+    color: #fafcfe;
+    font-size: 18px;
+    margin: 20px 0;
+    line-height: 1.0;
+}
+.content .button{
+    color: #fafcfe;
+    font-size: 18px;
+    border: 1px solid;
+    padding: 10px 25px;
+    border-radius: 5px;
+}
+.icon{
+    position: absolute;
+    bottom: -18px;
+    margin-left: 510px;
+    margin-bottom: 35px;
+}
+.icon  img{
+	margin-bottom: 6px;
+}
+.icon p{
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+.our-services{
+}
+.heading{
+
+margin-top: 120px;
+
+padding-bottom: 50px;
+}
+.heading h1{
+    color: #2980b9;
+    font-size: 25px;
+}
+.heading span{
+    background: #2980b9;
+    width: 40px;
+    height: 3px;
+    display: block;
+    margin: 0 auto;
+}
+
+.services{
+    text-align: center;
+    padding: 50px;
+}
+.services img{}
+.services h3{
+    margin: 10px 0;
+    font-size: 20px;
+    color: #616161;
+}
+.services p{
+    color: #616161;
+    font-size: 13px;
+}
+.our-portfolio{
+	padding: 70px 0;
+	background: url(../images/bg2.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height: 695px;
+
+}
+
+.our-portfolio .heading h1{
+    color: #fafcfe;
+    font-size: 25px;
+}
+.our-portfolio .heading span{
+    background: #fafcfe;
+}
+.our-portfolio .image{
+    text-align: center;
+}
+.our-portfolio img{
+    width: 65%;
+    margin-top: 20px;
+}
+.our-team{}
+.our-team p{
+    color: #616161;
+    font-size: 13px;
+    margin-top: 25px;
+    line-height: .10;
+}
+.team-img{
+	text-align: center;
+	position: relative;
+}
+.team-img h3{
+    font-size: 20px;
+    color: #2980b9;
+    padding: 10px;
+}
+.team-img h6{
+    color: #616161;
+    font-size: 15px;
+}
+
+.team-img img{}
+.team-img ul{
+    position: absolute;
+    bottom: 60%;
+    right: 50%;
+    transform: translate(50%, 50%);
+}
+.team-img ul li{
+    padding: 8px;
+}
+.team-img ul li a{
+    display: inline;
+    height: 40px;
+    width: 40px;
+    line-height: 40px;
+    text-align: center;
+    color: #2980b9;
+    border: 1px solid #fff;
+    border-radius: 50%;
+    background: #fff;
+    padding: 4px;
+    font-size: 18px;
+}
+.team-img ul li a:hover{}
+.overlay{
+    position: absolute;
+    background: #15a4faad;
+    width: 100%;
+    height: 78%;
+    top: 0;
+    left: 0;
+}
+.our-offices{
+    padding: 70px 0;
+    background: url(../images/bg3.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 695px;
+}
+.our-offices h1{
+    color: #fafcfe;
+    font-size: 25px;
+}
+.our-offices span{
+    background: #fafcfe;
+}
+.our-offices p{
+    color: #fafcfe;
+    font-size: 13px;
+    margin-top: 25px;
+    line-height: .10;
+}
+.world{}
+.world img{
+    max-width: 45%;
+}
+.location{}
+.location img{
+	margin-top: -340px;
+	padding: 28px;
+}
+.our-clients{}
+.our-clients h1{
+    font-size: 25px;
+}
+.our-clients span{
+}
+.our-clients p{
+
+    font-size: 13px;
+    margin-top: 25px;
+    line-height: .10;
+}
+.social{}
+.social img{
+    padding: 0 20px;
+}
+.line{}
+.line img{
+    width: 100%;
+    padding-bottom: 20px;
+}
+.carousel-item p{
+    text-align: center;
+    font-size: 18px;
+}
+.carousel-item h6{
+    text-align: center;
+    padding-top: 10px;
+}
+.carousel-item h6 span{
+    color: #2980b9;
+    font-size: 18px;
+}
+.contact-us{
+    padding: 55px 0;
+    background: url(../images/bg4.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.contact-us h1{
+    color: #fafcfe;
+    font-size: 25px;
+}
+.contact-us span{
+    background: #fafcfe;
+}
+.contact-us p{
+    color: #fafcfe;
+    font-size: 13px;
+    margin-top: 25px;
+    line-height: .10;
+}
+footer{}
+.social-icon{}
+.social-icon img{
+    margin-top: -35px;
+}
+.social-icon h2{
+    color: #fafcfe;
+    font-size: 18px;
+    margin-top: 10px;
+}
+.social-icon h3{
+    color: #8b8b8e;
+    font-size: 15px;
+}
+
+.social-text p{
+	font-size: 15px;
+}
